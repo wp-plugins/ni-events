@@ -39,6 +39,7 @@ class NI_Events_PostTypeFactory {
                 ),
             'public' => true,
             'has_archive' => true,
+            'menu_icon' => NI_Events_Registry::get( 'config', 'plugin_uri' ) . 'public/imgs/icon.png', 
             'rewrite' => array( 
                             'with_front' => false
                 ),
