@@ -3,15 +3,13 @@
 /*
 Plugin Name: NI Events
 Plugin URI: http://www.networkintellect.com
-Description: Very simple Events Plugin Created By Peter Featherstone @ Network Intellect
+Description: Very simple Events Plugin Created By Network Intellect
 Version: 1.0
-Author: Peter Featherstone
+Author: Network Intellect
 Text Domain: ni-events
-Author URI: http://www.peterfeatherstone.com
+Author URI: http://www.networkintellect.com
 License: GPL2
 Tags: events, ni, event, ni events
-
-Copyright 2015 Peter Featherstone <peter.featherstone@networkintellect.com>
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as 
@@ -25,9 +23,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
-
-@package  WordPress NI Events
-@author   Peter Featherstone <peter.featherstone@networkintellect.com>
  
 |--------------------------------------------------------------------------
 | Bootstrap The Application
